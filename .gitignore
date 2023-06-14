@@ -1,0 +1,7 @@
+models/
+results/
+junk/
+torch/
+.vscode/
+data/
+vendor/
